@@ -1,0 +1,18 @@
+compiling
+
+ g++ If_statement.cpp -o programe 
+ 
+ 
+ run
+ .\programe.exe
+ 
+ 
+ 
+ GIT
+ 
+ git status 
+ git add .
+ git commit -m "Coomit messege"
+ git push
+ 
+ 
